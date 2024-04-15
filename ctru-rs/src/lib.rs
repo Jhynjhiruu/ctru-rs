@@ -68,5 +68,6 @@ pub mod os;
 pub mod prelude;
 mod sealed;
 pub mod services;
+pub mod vram;
 
 pub use crate::error::{Error, Result};
